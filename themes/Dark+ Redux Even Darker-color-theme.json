@@ -793,21 +793,21 @@
       "name": "Keyword, Storage",
       "scope": ["Keyword", "Storage"],
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
       "name": "entity.name.method.js",
       "scope": ["entity.name.method.js"],
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
       "name": "Language methods",
       "scope": ["variable.language"],
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -823,7 +823,7 @@
         "keyword.control"
       ],
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
